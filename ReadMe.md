@@ -1,0 +1,5 @@
+	◦	Quincie Neale
+	◦	Creative Coding Spring 2017
+	◦	Exercise 1- code to create a panda face using shapes (no addons)
+	◦	Exercise 2-
+	◦	Exercise 3- code using addons (gui) and uploading images to create a slider bar that you can use to zoom in and out on the image
