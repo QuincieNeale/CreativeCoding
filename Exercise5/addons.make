@@ -1,0 +1,9 @@
+ofxGui
+ofxKinect
+ofxNetwork
+ofxSvg
+ofxThreadedImageLoader
+ofxVectorGraphics
+ofxVideoGrabber
+ofxXmlSettings
+ofxCVCameraUtil
