@@ -3,3 +3,5 @@
 	◦	Exercise 1- code to create a panda face using shapes (no addons)
 	◦	Exercise 2-
 	◦	Exercise 3- code using addons (gui) and uploading images to create a slider bar that you can use to zoom in and out on the image
+	◦	Exercise 4- this is the actual use of GitHub :)
+	◦	Exercise 5- detects movement using the computer camera, and displays it on 9 seperate screens with alternating filters
