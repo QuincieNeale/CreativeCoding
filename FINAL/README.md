@@ -10,5 +10,5 @@ animation
 When you run the program you can move your cursor toward the top of the screen to slow down the fram rate and toward the bottom to speed it up. If you click the animation will freeze, to unfreeze the animation just move the mouse.
 
 Here are video links:
-https://vimeo.com/216736541
-https://vimeo.com/217696392
+https://vimeo.com/220490819
+https://vimeo.com/220546086
