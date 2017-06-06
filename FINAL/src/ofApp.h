@@ -1,6 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
+#include "Animation.h"
 
 class ofApp : public ofBaseApp{
 
@@ -20,9 +21,15 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
-    
-        void DrawCircle(float x, float y, float radius);
-    
-    float PosX, PosY; //position
 		
+        Animation birds;
+    
+        //VideoGrabber code and ofTexture
+        ofVideoGrabber myVideoGrabber;
+        ofTexture myTexture;
+    
+        unsigned char* invertedVideoData;
+        int camWidth;
+        int camHeight;
+    
 };
