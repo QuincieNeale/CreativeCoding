@@ -5,4 +5,4 @@
 	◦	Exercise 3- code using addons (gui) and uploading images to create a slider bar that you can use to zoom in and out on the image
 	◦	Exercise 4- this is the actual use of GitHub :)
 	◦	Exercise 5- detects movement using the computer camera, and displays it on 9 seperate screens with alternating filters
-	◦	Project 2 -Final project where animation can be sped up and slowed down according to height of the cursos, also animation can be paused by clicking
+	◦	FINAL/Project 2 -Final project where animation can be sped up and slowed down according to height of the cursos, also animation can be paused by clicking
